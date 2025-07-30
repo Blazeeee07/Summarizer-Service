@@ -26,7 +26,7 @@ A lightweight, Python-based microservice built using **FastAPI** that summarizes
 
 ### 1. Clone the repository
 
-git clone https://github.com/your-username/summarizer-service.git
+git clone https://github.com/your-username/Summarizer-Service.git
 cd summarizer-service
 
 ### 2. Create and activate a virtual environment
