@@ -5,3 +5,4 @@ class SummaryRequest(BaseModel):
 
 class SummaryResponse(BaseModel):
     summary: str
+    cached: bool = Field(..., description="Indicates if the response was returned from cache")
